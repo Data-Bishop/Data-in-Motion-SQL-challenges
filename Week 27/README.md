@@ -1,6 +1,6 @@
 ## WEEK 27 SQL CHALLENGE
 ### QUESTION 1
-[Click here to view original Challenge](https://buff.ly/3DL4zYR)
+[Click here to view original Question](https://buff.ly/3DL4zYR)
 
 Write an SQL query to find for each user, the join date and the number of orders they made as a buyer in 2019. Return the result table in any order.
 
@@ -46,7 +46,7 @@ Write an SQL query to find for each user, the join date and the number of orders
 
 
 ### QUESTION 2
-[Click here to view original Challenge](https://buff.ly/3HAwj3y)
+[Click here to view original Question](https://buff.ly/3HAwj3y)
 
 Write an SQL query to report the Capital gain/loss for each stock.
 The Capital gain/loss of a stock is the total gain or loss after buying and selling the stock one or many times.
