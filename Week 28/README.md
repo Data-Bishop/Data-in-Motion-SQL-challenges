@@ -34,6 +34,8 @@ Output the age bucket and percentage of sending and opening snaps. Round the per
 
 
 
+
+
 ### QUESTION 2
 [Click here to view original Challenge](https://buff.ly/3lq7BLz)
 
