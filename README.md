@@ -11,3 +11,5 @@ Completed by **ABASIFREKE NKANANG**
 [Week 29](https://github.com/Data-Bishop/Data-in-Motion-SQL-challenges/tree/master/Week%2029)
 
 [Week 30](https://github.com/Data-Bishop/Data-in-Motion-SQL-challenges/tree/master/Week%2030)
+
+[Week 31](https://github.com/Data-Bishop/Data-in-Motion-SQL-challenges/tree/master/Week%2031)
